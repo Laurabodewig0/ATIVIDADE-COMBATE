@@ -4,7 +4,7 @@ import {
     index,
     update,
     destroy
-} from '../controllers/monsterController.js';
+} from '../controllers/veiculosController.js';
 
 const router = Router();
 
@@ -14,4 +14,3 @@ router.put('/:id', update);
 router.delete('/:id', destroy);
 
 export default router;
-

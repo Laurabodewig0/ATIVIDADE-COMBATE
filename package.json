@@ -1,5 +1,5 @@
 {
-  "name": "combate",
+  "name": "oficina",
   "version": "1.0.0",
   "main": "src/app.js",
   "type": "module", 
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git@github.com/LauraBodewig0/combate.git"
+    "url": "git+https://git@github.com/LauraBodewig0/oficina.git"
   },
   "author": "Alexandre Ferreira Ribas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LauraBodewig0/combate/issues"
+    "url": "https://github.com/LauraBodewig0/oficina/issues"
   },
-  "homepage": "https://github.com/LauraBodewig0/combate#readme",
+  "homepage": "https://github.com/LauraBodewig0/oficina#readme",
   "description": "type adicionado para suportar import/export (obrigatório se for usar import from e export default), start adicionado para rodar o servidor e  dependencies adicionado para instalar as dependências com npm install",
   "dependencies": {
     "express": "^4.21.0",
